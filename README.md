@@ -1,4 +1,4 @@
-# 12
+# 59
 The Smart Traffic Signal Optimization System is a software-based solution designed to overcome the inefficiencies of fixed-time traffic signals.
 
 Traditional traffic lights operate on predefined timing, which does not adapt to real-time traffic conditions. This often results in congestion, increased waiting time, and unnecessary fuel consumption.
